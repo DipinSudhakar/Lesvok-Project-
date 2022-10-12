@@ -1,0 +1,46 @@
+.nested-node{
+    padding-left: 40px;
+}
+
+.example-tree-invisible{
+    display: none;
+}
+
+.tree-container-wrapper{
+    padding-left: 200px;
+    padding-top: 150px;
+    height: 90vh;
+}
+
+.parent-child-icon{
+    color: rgb(68, 0, 255);
+}
+
+.end-child-icon{
+    color: rgb(255, 208, 0);
+}
+
+.node-info-section a{
+    text-decoration: none;
+    margin: 5px;
+    margin-left: 0px;
+    color: black;
+}
+.node-info-section a:hover{
+    color: blue;
+}
+
+.tools-section{
+    padding-bottom: 10px;
+}
+
+.mat-tree-node button{
+    background: none;
+    border: none;
+}
+.node-info label{
+    color: rgb(92, 92, 241);
+}
+.node-info input{
+    color: rgb(92, 89, 89)
+}
